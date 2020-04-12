@@ -1,7 +1,9 @@
+![Ansible Lint](https://github.com/johanneskastl/ansible-role-zypper_ref_accept_keys/workflows/Ansible%20Lint/badge.svg)
+
 zypper_ref_accept_keys
 =========
 
-Triggering a zypper refresh on *SUSE machines and accepting all unknown GPG keys (use with caution...)
+Triggering a zypper refresh on SUSE/openSUSE machines and accepting all unknown GPG keys (use with caution...)
 
 Requirements
 ------------
@@ -23,7 +25,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: johanneskastl.zypper_ref_accept_keys}
+         - { role: johanneskastl.zypper_ref_accept_keys }
 
 License
 -------
