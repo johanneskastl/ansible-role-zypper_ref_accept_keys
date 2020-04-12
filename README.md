@@ -3,7 +3,7 @@
 zypper_ref_accept_keys
 =========
 
-Triggering a zypper refresh on *SUSE machines and accepting all unknown GPG keys (use with caution...)
+Triggering a zypper refresh on SUSE/openSUSE machines and accepting all unknown GPG keys (use with caution...)
 
 Requirements
 ------------
