@@ -1,3 +1,5 @@
+![Ansible Lint](https://github.com/johanneskastl/ansible-role-zypper_ref_accept_keys/workflows/Ansible%20Lint/badge.svg)
+
 zypper_ref_accept_keys
 =========
 
