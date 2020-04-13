@@ -25,7 +25,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: johanneskastl.zypper_ref_accept_keys }
+         - { role: 'johanneskastl.zypper_ref_accept_keys' }
 
 License
 -------
