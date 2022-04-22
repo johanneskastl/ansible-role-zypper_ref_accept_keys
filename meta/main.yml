@@ -1,5 +1,6 @@
 galaxy_info:
   role_name: 'zypper_ref_accept_keys'
+  namespace: 'johanneskastl'
   author: 'Johannes Kastl'
   description: 'Triggering a zypper refresh on *SUSE machines and accepting all unknown GPG keys (use with caution...)'
   company: 'B1 Systems GmbH'
