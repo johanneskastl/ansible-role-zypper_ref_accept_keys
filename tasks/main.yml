@@ -2,7 +2,7 @@
 # zypper_ref_accept_key/tasks/main.yml
 
 - name: "Refresh all repos and accept all unknown GPG keys"
-  zypper_repository:
+  community.general.zypper_repository:
     repo: '*'
     runrefresh: yes
     auto_import_keys: yes
